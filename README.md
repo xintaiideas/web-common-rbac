@@ -10,7 +10,7 @@ RBAC权限控制演示
 * jQuery
 
 
-快速运行项目步骤（有疑问可以加入QQ交流群：325264502）
+快速运行项目步骤
 ===============
 * 下载地址
     * Bootstrap：http://d.bootcss.com/bootstrap-3.3.0-dist.zip
